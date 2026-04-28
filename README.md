@@ -1,4 +1,3 @@
-# .github
 Demi - A game studio and Developer Platform
 
 <div align="center">
