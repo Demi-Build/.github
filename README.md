@@ -1,5 +1,3 @@
-Demi - A game studio and Developer Platform
-
 <div align="center">
   <img src="./assets/demi-logo.svg" alt="Demi.Build" width="200" />
 
