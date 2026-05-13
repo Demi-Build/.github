@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 380" width="380" height="380" fill="none">
-  <title>Demi — primary mark</title>
-  <desc>Three concentric half-circles (front), three dotted mirror arcs (back), a gold vertical axis, and a gold dot at the true center. Ink + gold on a cream backdrop.</desc>
-
-  <circle cx="190" cy="190" r="182" fill="#f7f3e8"></circle>
-
-  <path d="M 190 10 A 180 180 0 0 0 190 370" stroke="#1B1D24" stroke-width="1" stroke-dasharray="2 5" opacity="0.35"></path>
-  <path d="M 190 50 A 140 140 0 0 0 190 330" stroke="#1B1D24" stroke-width="1" stroke-dasharray="2 5" opacity="0.35"></path>
-  <path d="M 190 90 A 100 100 0 0 0 190 290" stroke="#1B1D24" stroke-width="1" stroke-dasharray="2 5" opacity="0.35"></path>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 380" fill="none" role="img" aria-labelledby="demi-mark-title demi-mark-desc">
+  <title id="demi-mark-title">Demi - primary mark</title>
+  <desc id="demi-mark-desc">Demi Build - Where research meets open source meets gaming</desc>
   
-  <path d="M 190 10 A 180 180 0 0 1 190 370" stroke="#1B1D24" stroke-width="2"></path>
-  <path d="M 190 50 A 140 140 0 0 1 190 330" stroke="#1B1D24" stroke-width="1.5"></path>
-  <path d="M 190 90 A 100 100 0 0 1 190 290" stroke="#1B1D24" stroke-width="1.5"></path>
+  <path d="M 190 10 A 180 180 0 0 0 190 370" pathLength="14" stroke="#FFFFFF" stroke-width="5.5" stroke-dasharray="1.4 0.9" stroke-linecap="round" stroke-linejoin="round" opacity="1"></path>
+  <path d="M 190 50 A 140 140 0 0 0 190 330" pathLength="22" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="1 1" stroke-linecap="round" stroke-linejoin="round" opacity="1"></path>
+  <path d="M 190 90 A 100 100 0 0 0 190 290" pathLength="36" stroke="#FFFFFF" stroke-width="2.75" stroke-dasharray="0.6 0.9" stroke-linecap="round" stroke-linejoin="round" opacity="1"></path>
   
-  <line x1="190" y1="10" x2="190" y2="370" stroke="#A07B3C" stroke-width="2.5"></line>
+  <path d="M 190 10 A 180 180 0 0 1 190 370" stroke="#A07B3C" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M 190 50 A 140 140 0 0 1 190 330" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M 190 90 A 100 100 0 0 1 190 290" stroke="#FFFFFF" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"></path>
   
-  <circle cx="190" cy="190" r="10" fill="#A07B3C"></circle>
+  <line x1="190" y1="10" x2="190" y2="370" stroke="#A07B3C" stroke-width="4.5" stroke-linecap="round"></line>
+  <circle cx="190" cy="190" r="11" fill="#A07B3C"></circle>
 </svg>
